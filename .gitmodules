@@ -1,3 +1,7 @@
 [submodule "test_submodule"]
 	path = test_submodule
 	url = https://github.com/DorianZheng/test_submodule.git
+
+[submodule "up-to-date-test_submodule"]
+	path = up-to-date-test_submodule
+	url = https://github.com/DorianZheng/test_submodule.git
